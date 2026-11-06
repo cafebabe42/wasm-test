@@ -1,11 +1,5 @@
-﻿<Solution>
-  <Project Path="BrowserTest.Android/BrowserTest.Android.csproj">
-    <Deploy />
-  </Project>
+<Solution>
   <Project Path="BrowserTest.Browser/BrowserTest.Browser.csproj" />
   <Project Path="BrowserTest.Desktop/BrowserTest.Desktop.csproj" />
-  <Project Path="BrowserTest.iOS/BrowserTest.iOS.csproj">
-    <Deploy />
-  </Project>
   <Project Path="BrowserTest/BrowserTest.csproj" />
 </Solution>
